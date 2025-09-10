@@ -1,0 +1,4 @@
+List of words:
+['I', 'am', 'Bhaskar', 'Saini']
+Tuple of words:
+('I', 'AM', 'BHASKAR', 'SAINI')

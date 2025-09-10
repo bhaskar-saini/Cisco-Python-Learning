@@ -1,0 +1,5 @@
+Git Branches and staging
+Data Types like primitive and non primitive like dictionary , list , tuple
+How data are stored like heap memory and also variables like global variable and local variables
+functions and CRUD Operations
+Employee application
