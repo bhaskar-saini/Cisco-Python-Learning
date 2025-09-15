@@ -1,0 +1,2 @@
+Sorted List: /Users/bhassain/Downloads/Cisco-Python-Learning/.venv/bin/activate, source
+Sorted Tuple: /Users/bhassain/Downloads/Cisco-Python-Learning/.venv/bin/activate, source
