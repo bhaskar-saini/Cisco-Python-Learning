@@ -1,87 +1,6 @@
 {
     "quotes": [
         {
-            "quote": "“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”",
-            "author": "Dr. Seuss",
-            "tags": [
-                "learning",
-                "reading",
-                "seuss"
-            ]
-        },
-        {
-            "quote": "“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”",
-            "author": "J.K. Rowling",
-            "tags": [
-                "dumbledore"
-            ]
-        },
-        {
-            "quote": "“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”",
-            "author": "Bob Marley",
-            "tags": [
-                "friendship"
-            ]
-        },
-        {
-            "quote": "“Not all of us can do great things. But we can do small things with great love.”",
-            "author": "Mother Teresa",
-            "tags": [
-                "misattributed-to-mother-teresa",
-                "paraphrased"
-            ]
-        },
-        {
-            "quote": "“To the well-organized mind, death is but the next great adventure.”",
-            "author": "J.K. Rowling",
-            "tags": [
-                "death",
-                "inspirational"
-            ]
-        },
-        {
-            "quote": "“All you need is love. But a little chocolate now and then doesn't hurt.”",
-            "author": "Charles M. Schulz",
-            "tags": [
-                "chocolate",
-                "food",
-                "humor"
-            ]
-        },
-        {
-            "quote": "“We read to know we're not alone.”",
-            "author": "William Nicholson",
-            "tags": [
-                "misattributed-to-c-s-lewis",
-                "reading"
-            ]
-        },
-        {
-            "quote": "“Any fool can know. The point is to understand.”",
-            "author": "Albert Einstein",
-            "tags": [
-                "knowledge",
-                "learning",
-                "understanding",
-                "wisdom"
-            ]
-        },
-        {
-            "quote": "“I have always imagined that Paradise will be a kind of library.”",
-            "author": "Jorge Luis Borges",
-            "tags": [
-                "books",
-                "library"
-            ]
-        },
-        {
-            "quote": "“It is never too late to be what you might have been.”",
-            "author": "George Eliot",
-            "tags": [
-                "inspirational"
-            ]
-        },
-        {
             "quote": "“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”",
             "author": "Pablo Neruda",
             "tags": [
@@ -152,96 +71,6 @@
             "author": "Bob Marley",
             "tags": [
                 "music"
-            ]
-        },
-        {
-            "quote": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
-            "author": "Albert Einstein",
-            "tags": [
-                "change",
-                "deep-thoughts",
-                "thinking",
-                "world"
-            ]
-        },
-        {
-            "quote": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
-            "author": "J.K. Rowling",
-            "tags": [
-                "abilities",
-                "choices"
-            ]
-        },
-        {
-            "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
-            "author": "Albert Einstein",
-            "tags": [
-                "inspirational",
-                "life",
-                "live",
-                "miracle",
-                "miracles"
-            ]
-        },
-        {
-            "quote": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
-            "author": "Jane Austen",
-            "tags": [
-                "aliteracy",
-                "books",
-                "classic",
-                "humor"
-            ]
-        },
-        {
-            "quote": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
-            "author": "Marilyn Monroe",
-            "tags": [
-                "be-yourself",
-                "inspirational"
-            ]
-        },
-        {
-            "quote": "“Try not to become a man of success. Rather become a man of value.”",
-            "author": "Albert Einstein",
-            "tags": [
-                "adulthood",
-                "success",
-                "value"
-            ]
-        },
-        {
-            "quote": "“It is better to be hated for what you are than to be loved for what you are not.”",
-            "author": "André Gide",
-            "tags": [
-                "life",
-                "love"
-            ]
-        },
-        {
-            "quote": "“I have not failed. I've just found 10,000 ways that won't work.”",
-            "author": "Thomas A. Edison",
-            "tags": [
-                "edison",
-                "failure",
-                "inspirational",
-                "paraphrased"
-            ]
-        },
-        {
-            "quote": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
-            "author": "Eleanor Roosevelt",
-            "tags": [
-                "misattributed-eleanor-roosevelt"
-            ]
-        },
-        {
-            "quote": "“A day without sunshine is like, you know, night.”",
-            "author": "Steve Martin",
-            "tags": [
-                "humor",
-                "obvious",
-                "simile"
             ]
         },
         {
@@ -341,89 +170,180 @@
                 "planning",
                 "plans"
             ]
+        },
+        {
+            "quote": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+            "author": "Albert Einstein",
+            "tags": [
+                "change",
+                "deep-thoughts",
+                "thinking",
+                "world"
+            ]
+        },
+        {
+            "quote": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+            "author": "J.K. Rowling",
+            "tags": [
+                "abilities",
+                "choices"
+            ]
+        },
+        {
+            "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+            "author": "Albert Einstein",
+            "tags": [
+                "inspirational",
+                "life",
+                "live",
+                "miracle",
+                "miracles"
+            ]
+        },
+        {
+            "quote": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+            "author": "Jane Austen",
+            "tags": [
+                "aliteracy",
+                "books",
+                "classic",
+                "humor"
+            ]
+        },
+        {
+            "quote": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+            "author": "Marilyn Monroe",
+            "tags": [
+                "be-yourself",
+                "inspirational"
+            ]
+        },
+        {
+            "quote": "“Try not to become a man of success. Rather become a man of value.”",
+            "author": "Albert Einstein",
+            "tags": [
+                "adulthood",
+                "success",
+                "value"
+            ]
+        },
+        {
+            "quote": "“It is better to be hated for what you are than to be loved for what you are not.”",
+            "author": "André Gide",
+            "tags": [
+                "life",
+                "love"
+            ]
+        },
+        {
+            "quote": "“I have not failed. I've just found 10,000 ways that won't work.”",
+            "author": "Thomas A. Edison",
+            "tags": [
+                "edison",
+                "failure",
+                "inspirational",
+                "paraphrased"
+            ]
+        },
+        {
+            "quote": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+            "author": "Eleanor Roosevelt",
+            "tags": [
+                "misattributed-eleanor-roosevelt"
+            ]
+        },
+        {
+            "quote": "“A day without sunshine is like, you know, night.”",
+            "author": "Steve Martin",
+            "tags": [
+                "humor",
+                "obvious",
+                "simile"
+            ]
+        },
+        {
+            "quote": "“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”",
+            "author": "Dr. Seuss",
+            "tags": [
+                "learning",
+                "reading",
+                "seuss"
+            ]
+        },
+        {
+            "quote": "“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”",
+            "author": "J.K. Rowling",
+            "tags": [
+                "dumbledore"
+            ]
+        },
+        {
+            "quote": "“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”",
+            "author": "Bob Marley",
+            "tags": [
+                "friendship"
+            ]
+        },
+        {
+            "quote": "“Not all of us can do great things. But we can do small things with great love.”",
+            "author": "Mother Teresa",
+            "tags": [
+                "misattributed-to-mother-teresa",
+                "paraphrased"
+            ]
+        },
+        {
+            "quote": "“To the well-organized mind, death is but the next great adventure.”",
+            "author": "J.K. Rowling",
+            "tags": [
+                "death",
+                "inspirational"
+            ]
+        },
+        {
+            "quote": "“All you need is love. But a little chocolate now and then doesn't hurt.”",
+            "author": "Charles M. Schulz",
+            "tags": [
+                "chocolate",
+                "food",
+                "humor"
+            ]
+        },
+        {
+            "quote": "“We read to know we're not alone.”",
+            "author": "William Nicholson",
+            "tags": [
+                "misattributed-to-c-s-lewis",
+                "reading"
+            ]
+        },
+        {
+            "quote": "“Any fool can know. The point is to understand.”",
+            "author": "Albert Einstein",
+            "tags": [
+                "knowledge",
+                "learning",
+                "understanding",
+                "wisdom"
+            ]
+        },
+        {
+            "quote": "“I have always imagined that Paradise will be a kind of library.”",
+            "author": "Jorge Luis Borges",
+            "tags": [
+                "books",
+                "library"
+            ]
+        },
+        {
+            "quote": "“It is never too late to be what you might have been.”",
+            "author": "George Eliot",
+            "tags": [
+                "inspirational"
+            ]
         }
     ],
     "books": [
-        {
-            "title": "In Her Wake",
-            "price": "£12.84"
-        },
-        {
-            "title": "How Music Works",
-            "price": "£37.32"
-        },
-        {
-            "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
-            "price": "£30.52"
-        },
-        {
-            "title": "Chase Me (Paris Nights #2)",
-            "price": "£25.27"
-        },
-        {
-            "title": "Black Dust",
-            "price": "£34.53"
-        },
-        {
-            "title": "Birdsong: A Story in Pictures",
-            "price": "£54.64"
-        },
-        {
-            "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
-            "price": "£22.50"
-        },
-        {
-            "title": "Aladdin and His Wonderful Lamp",
-            "price": "£53.13"
-        },
-        {
-            "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
-            "price": "£40.30"
-        },
-        {
-            "title": "Wall and Piece",
-            "price": "£44.18"
-        },
-        {
-            "title": "The Four Agreements: A Practical Guide to Personal Freedom",
-            "price": "£17.66"
-        },
-        {
-            "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
-            "price": "£31.05"
-        },
-        {
-            "title": "The Elephant Tree",
-            "price": "£23.82"
-        },
-        {
-            "title": "The Bear and the Piano",
-            "price": "£36.89"
-        },
-        {
-            "title": "Sophie's World",
-            "price": "£15.94"
-        },
-        {
-            "title": "Penny Maybe",
-            "price": "£33.29"
-        },
-        {
-            "title": "Maude (1883-1993):She Grew Up with the country",
-            "price": "£18.02"
-        },
-        {
-            "title": "In a Dark, Dark Wood",
-            "price": "£19.63"
-        },
-        {
-            "title": "Behind Closed Doors",
-            "price": "£52.22"
-        },
-        {
-            "title": "You can't bury them all: Poems",
-            "price": "£33.63"
-        },
         {
             "title": "Slow States of Collapse: Poems",
             "price": "£57.31"
@@ -503,6 +423,86 @@
         {
             "title": "The Natural History of Us (The Fine Art of Pretending #2)",
             "price": "£45.22"
+        },
+        {
+            "title": "A Light in the Attic",
+            "price": "£51.77"
+        },
+        {
+            "title": "Tipping the Velvet",
+            "price": "£53.74"
+        },
+        {
+            "title": "Soumission",
+            "price": "£50.10"
+        },
+        {
+            "title": "Sharp Objects",
+            "price": "£47.82"
+        },
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "price": "£54.23"
+        },
+        {
+            "title": "The Requiem Red",
+            "price": "£22.65"
+        },
+        {
+            "title": "The Dirty Little Secrets of Getting Your Dream Job",
+            "price": "£33.34"
+        },
+        {
+            "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+            "price": "£17.93"
+        },
+        {
+            "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+            "price": "£22.60"
+        },
+        {
+            "title": "The Black Maria",
+            "price": "£52.15"
+        },
+        {
+            "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+            "price": "£13.99"
+        },
+        {
+            "title": "Shakespeare's Sonnets",
+            "price": "£20.66"
+        },
+        {
+            "title": "Set Me Free",
+            "price": "£17.46"
+        },
+        {
+            "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+            "price": "£52.29"
+        },
+        {
+            "title": "Rip it Up and Start Again",
+            "price": "£35.02"
+        },
+        {
+            "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+            "price": "£57.25"
+        },
+        {
+            "title": "Olio",
+            "price": "£23.88"
+        },
+        {
+            "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+            "price": "£37.59"
+        },
+        {
+            "title": "Libertarianism for Beginners",
+            "price": "£51.33"
+        },
+        {
+            "title": "It's Only the Himalayas",
+            "price": "£45.17"
         },
         {
             "title": "The Nameless City (The Nameless City #1)",
@@ -585,84 +585,84 @@
             "price": "£50.40"
         },
         {
-            "title": "A Light in the Attic",
-            "price": "£51.77"
+            "title": "In Her Wake",
+            "price": "£12.84"
         },
         {
-            "title": "Tipping the Velvet",
-            "price": "£53.74"
+            "title": "How Music Works",
+            "price": "£37.32"
         },
         {
-            "title": "Soumission",
-            "price": "£50.10"
+            "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+            "price": "£30.52"
         },
         {
-            "title": "Sharp Objects",
-            "price": "£47.82"
+            "title": "Chase Me (Paris Nights #2)",
+            "price": "£25.27"
         },
         {
-            "title": "Sapiens: A Brief History of Humankind",
-            "price": "£54.23"
+            "title": "Black Dust",
+            "price": "£34.53"
         },
         {
-            "title": "The Requiem Red",
-            "price": "£22.65"
+            "title": "Birdsong: A Story in Pictures",
+            "price": "£54.64"
         },
         {
-            "title": "The Dirty Little Secrets of Getting Your Dream Job",
-            "price": "£33.34"
+            "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+            "price": "£22.50"
         },
         {
-            "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
-            "price": "£17.93"
+            "title": "Aladdin and His Wonderful Lamp",
+            "price": "£53.13"
         },
         {
-            "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
-            "price": "£22.60"
+            "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+            "price": "£40.30"
         },
         {
-            "title": "The Black Maria",
-            "price": "£52.15"
+            "title": "Wall and Piece",
+            "price": "£44.18"
         },
         {
-            "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
-            "price": "£13.99"
+            "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+            "price": "£17.66"
         },
         {
-            "title": "Shakespeare's Sonnets",
-            "price": "£20.66"
+            "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+            "price": "£31.05"
         },
         {
-            "title": "Set Me Free",
-            "price": "£17.46"
+            "title": "The Elephant Tree",
+            "price": "£23.82"
         },
         {
-            "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
-            "price": "£52.29"
+            "title": "The Bear and the Piano",
+            "price": "£36.89"
         },
         {
-            "title": "Rip it Up and Start Again",
-            "price": "£35.02"
+            "title": "Sophie's World",
+            "price": "£15.94"
         },
         {
-            "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
-            "price": "£57.25"
+            "title": "Penny Maybe",
+            "price": "£33.29"
         },
         {
-            "title": "Olio",
-            "price": "£23.88"
+            "title": "Maude (1883-1993):She Grew Up with the country",
+            "price": "£18.02"
         },
         {
-            "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
-            "price": "£37.59"
+            "title": "In a Dark, Dark Wood",
+            "price": "£19.63"
         },
         {
-            "title": "Libertarianism for Beginners",
-            "price": "£51.33"
+            "title": "Behind Closed Doors",
+            "price": "£52.22"
         },
         {
-            "title": "It's Only the Himalayas",
-            "price": "£45.17"
+            "title": "You can't bury them all: Poems",
+            "price": "£33.63"
         }
     ]
 }
